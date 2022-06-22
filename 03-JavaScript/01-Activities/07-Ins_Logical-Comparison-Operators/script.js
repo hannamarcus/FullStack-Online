@@ -14,8 +14,8 @@ console.log(a % b);
 // Comparison operators combine with strings, booleans and numbers to form an expression that evaluates to true or false
 // Compares equality
 
-console.log(b == c);
-console.log(b != c);
+console.log(b == c); // true
+console.log(b != c); // false
 
 // Compares equality and type (strict equality)
 console.log(b === c);
