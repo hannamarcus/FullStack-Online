@@ -1,3 +1,5 @@
+// This was group's attempt 
+
 var userChoice = prompt("Pick r, p or s");
 var computerChoice = Math.random();
 if (computerChoice <0.34){
