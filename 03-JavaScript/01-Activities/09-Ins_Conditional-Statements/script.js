@@ -9,6 +9,7 @@ if (hungerLevel >= 50) {
   console.log("Hungry!");
 }
 
+
 // Evaluates to false so nothing is logged
 if (hungerLevel < 50) {
   console.log("Hungry!");
