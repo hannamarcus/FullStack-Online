@@ -66,3 +66,8 @@ $(function () {
 
 // Add interaction here
 //
+<script>
+$( function() {
+  $( "#skillNames" ).skillNames();
+} );
+</script>
