@@ -5,6 +5,12 @@ describe("Algo", () => {
     // TODO: Write a test for the `reverse` method that should take a string as an argument and return a new reversed version of the string
   });
 
+  const str = 'Hi Mom';
+  const revStr = "moM iH"
+
+  const revResult = new Algo
+
+
   describe("isPalindrome", () => {
     // TODO: Write a test for the `isPalindrome` method that should take a string as an argument and return the boolean `true` if the provided string is a palindrome.
   });
