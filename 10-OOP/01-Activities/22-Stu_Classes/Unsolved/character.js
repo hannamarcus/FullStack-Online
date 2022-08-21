@@ -1,6 +1,17 @@
 class Character {
   // TODO: Add a constructor
   // TODO: Create a printStats() method that console logs `this.name`, `this.strength`, and `this.hitPoints`
+  constructor(strenght, hitPoints) {
+    this.strength = strength;
+    this.hitPoints = hitPoints; 
+  }
+
+  printStats() {
+      console.log('Name: ${this.name}')
+      console.log('strength: ${this.strength}')
+      console.log('hitpoints: $(this.hitPoints}')
+  }
+
 
   // TODO: Create a isAlive() method that returns a boolean based on whether or not a character's "hitpoints" are <= 0
 
