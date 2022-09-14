@@ -36,3 +36,7 @@ Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+git config --global user.email "hannamarcus1@gmail.com"
+  git config --global user.name "Hanna Marcus"
