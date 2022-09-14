@@ -6,4 +6,7 @@ VALUES ("The Great Gatsby"),
        ("Crime and Punishment"),
        ("Moby Dick"),
        ("Decameron");
+
+
+DELETE from favorite_books with id = "2"
        
