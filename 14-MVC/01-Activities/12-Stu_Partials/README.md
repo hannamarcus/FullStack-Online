@@ -40,10 +40,3 @@ Use [Google](https://www.google.com) or another search engine to research this.
 
 git config --global user.email "hannamarcus1@gmail.com"
   git config --global user.name "Hanna Marcus"
-
-  <?php
-
-$servername = "localhost";
-$username = "hannamarcus";
-$password = "";
-
